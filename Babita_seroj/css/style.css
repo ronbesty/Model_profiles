@@ -56,3 +56,8 @@ footer.page-footer {
   margin: 0;
 }
 
+.pimg{
+  background-size: cover;
+  background-attachment: scroll;
+}
+
